@@ -24,6 +24,28 @@ main {
     padding: 20px;
 }
 
+section {
+    margin-bottom: 40px; /* Space between sections */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+}
+
+#about {
+    background-color: #e7f3fe; /* Light blue background */
+}
+
+#events {
+    background-color: #f9f9f9; /* Light gray background */
+}
+
+#contact {
+    background-color: #ffe6e6; /* Light red background */
+}
+
+h2 {
+    border-bottom: 2px solid #004080; /* Underline for section titles */
+}
+
 footer {
     text-align: center;
     padding: 10px;
