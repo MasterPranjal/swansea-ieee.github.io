@@ -73,6 +73,15 @@ h2 {
     margin-bottom: 10px; /* Space between list items */
 }
 
+/* Sub-event Styles for Nested Lists */
+#events ul ul {
+    margin-left: 20px; /* Indent sub-events for clarity */
+}
+
+#events ul ul li {
+    margin-bottom: 5px; /* Space between nested list items */
+}
+
 /* Link Styles */
 a {
     color: #004080; /* Dark blue color for links */
