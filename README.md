@@ -21,4 +21,4 @@ A link to the three academic papers which will be discussed in the session is pr
 
 3) [TECH TO MARKET. FINDING AND DESIGNING SUITABLE TECHNOLOGY APPLICATIONS WITH DESIGN THINKING | Proceedings of the Design Society | Cambridge Core](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/tech-to-market-finding-and-designing-suitable-technology-applications-with-design-thinking/DEE91AF544EEE1F1D84CA4892F1CFFF3)
 
-# Join us to engage in insightful discussions, network with fellow IEEE members, and enhance your academic journey. We are looking forward to seeing you there!
+Join us to engage in insightful discussions, network with fellow IEEE members, and enhance your academic journey. We are looking forward to seeing you there!
