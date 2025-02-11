@@ -18,6 +18,8 @@ A link to the two academic papers which will be discussed in the session is prov
 
 2) [Cellpose: a generalist algorithm for cellular segmentation | Nature Methods](https://www.nature.com/articles/s41592-020-01018-x)
 
+Join us to engage in insightful discussions, network with fellow IEEE members, and enhance your academic journey. We are looking forward to seeing you there!
+
 ## 📚 1st and 2nd Reading Clinic: Monday 3rd and Tuesday 11th February 3-4 pm - CoFo 014
 
 As part of our first commitment to the branch, we have created the Reading Clinics, weekly reading meetings offering students the opportunity to read and discuss academic papers in a group environment. Our second session will focus on Design Thinking Methodology (DMT), led by Obinna Otuu and will take place on:
