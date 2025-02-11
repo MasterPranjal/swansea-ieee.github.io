@@ -6,7 +6,7 @@ Join the IEEE student branch to become an active part of the team and enrich you
 
 ## 📚 3rd Reading Clinic: Tuesday 18th February 3-4 pm - CoFo 014
 
-As part of our first commitment to the branch, we have created the Reading Clinics, weekly reading meetings offering students the opportunity to read and discuss academic papers in a group environment. Our second session will focus on Artificial Neural Networks (ANNs) for Biomedical Image Segmentation, led by Sarah Costa ([www.linkedin.com/in/sarahcosta2001]) and will take place on:
+As part of our first commitment to the branch, we have created the Reading Clinics, weekly reading meetings offering students the opportunity to read and discuss academic papers in a group environment. Our second session will focus on Artificial Neural Networks (ANNs) for Biomedical Image Segmentation, led by Sarah Costa and will take place on:
 
 📅 Tuesday, 18th February
 🕒 3:00 – 4:00 PM
