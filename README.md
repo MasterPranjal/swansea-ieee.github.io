@@ -4,7 +4,7 @@ The Swansea University IEEE Student Branch is a student-led initiative dedicated
 
 Join the IEEE student branch to become an active part of the team and enrich your academic journey through inspiring workshops, networking events, and hands-on projects!
 
-## 📚 3rd Reading Clinic: Tuesday 18th February 3-4 pm - CoFo 014
+## 📚 3rd Reading Clinic: Wednesday 19th February 3-4 pm - CoFo 014
 
 As part of our first commitment to the branch, we have created the Reading Clinics, weekly reading meetings offering students the opportunity to read and discuss academic papers in a group environment. Our second session will focus on Artificial Neural Networks (ANNs) for Biomedical Images Segmentation, led by Sarah Costa and will take place on:
 
