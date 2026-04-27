@@ -14,17 +14,13 @@ A link to the two academic papers which will be discussed in the session is prov
 The first paper introduces an important novel concept, “graspness,” in robotic perception, which has been widely used in robotic manipulation research, addressing a key limitation in grasp detection by identifying where robots should grasp in cluttered scenes. By leveraging geometric cues and neural networks, this work significantly improves both the efficiency and accuracy of robotic manipulation systems.
 
 2) [Breakdown, Obsolescence and Reuse: HCI and the Art of Repair](https://www.leokang.com/publications/breakdown_jackson.pdf)
-
-Join us to engage in insightful discussions, connect interdisciplinary ideas across robotics and HCI, network with fellow IEEE members, and deepen your academic perspective. We are looking forward to seeing you there!
-
 The second paper shifts perspective to HCI, exploring how breakdown, obsolescence, and repair are not merely failures, but opportunities for creativity and rethinking our relationship with technology. It challenges conventional design paradigms by positioning maintenance and reuse as central to interaction design.
-
 
 📅 Wednesday, 13th May  
 🕒 3:00 – 4:00 PM  
 📍 CoFo 014 (Ground Floor, Computational Foundry) & Online Zoom Meeting
 
-
+Join us to engage in insightful discussions, connect interdisciplinary ideas across robotics and HCI, network with fellow IEEE members, and deepen your academic perspective. We are looking forward to seeing you there!
 
 
 
