@@ -20,7 +20,7 @@ Our first session will feature [Yiming](https://www.linkedin.com/in/li-yiming-a6
 🕒 3:00 – 4:00 PM  
 📍 CoFo 014 (Ground Floor, Computational Foundry) & Online Zoom Meeting
 
-Link to register: https://events.vtools.ieee.org/tego_/event/manage/558034 
+Link to register: [https://events.vtools.ieee.org/tego_/event/manage/558034 ](https://events.vtools.ieee.org/m/558034)
 
 We invite all PGRs, Master’s, and undergraduate students seeking guidance or reassurance to join us.
 
