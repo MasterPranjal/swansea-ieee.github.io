@@ -4,13 +4,16 @@ The Swansea University IEEE Student Branch is a student-led initiative dedicated
 
 Join the IEEE student branch to become an active part of the team and enrich your academic journey through inspiring workshops, networking events, and hands-on projects!
 
+## Scholars Together / Ysgolheigion Gyda’n Gilydd 🤝  
+*Reviving collaborative academic culture in today’s context*
+
 Swansea IEEE Student Branch, in collaboration with the Zienkiewicz Institute, is launching a peer-support initiative to help students prepare for dissertations, theses, and vivas.
 
 We will host weekly or bi-weekly sessions (based on demand), where students can share their work, discuss plans, and receive constructive, supportive feedback in a safe and encouraging environment.
 
 The aim is not to instruct, but to support, helping you build confidence and manage the pressures of academic writing and presentation.
 
-Our first session will feature [Yiming](https://www.linkedin.com/in/li-yiming-a63325380/), who has recently submitted his PhD thesis and is preparing for his viva in the coming months.
+Our first session will feature [Yiming](https://www.linkedin.com/in/li-yiming-a63325380/), who has recently submitted his PhD thesis and is preparing for his viva in the coming months. His research focuses on computer vision and deep learning for robotic manipulation using purely visual input, including single-view 3D reconstruction, object detection, and 6-DoF grasp pose estimation and generation.
 
 We invite all PGRs, Master’s, and undergraduate students seeking guidance or reassurance to join us.
 
