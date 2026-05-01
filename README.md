@@ -26,7 +26,7 @@ We invite all PGRs, Master’s, and undergraduate students seeking guidance or r
 
 Let’s work together to make this journey less daunting and more collaborative.
 
-## Activity 2: Reading Session
+## Activity 2: Reading Session / Sesiwn Ddarllen 
 ## 📚 4th Reading Clinic: Wednesday 13th May 3-4 pm - CoFo 014 & Online
 
 This session explores how modern intelligent systems perceive, act, and adapt in imperfect real-world conditions. We will look at how robots can reliably identify graspable objects even in highly cluttered environments. At the same time, we will question what happens when technology fails, ages, or is repurposed by its users. By combining perspectives from robotics and Human-Computer Interaction (HCI), the session highlights both precision-driven automation and human-centered adaptation. Expect a discussion that connects technical innovation with broader reflections on how we design, use, and sustain technology.
