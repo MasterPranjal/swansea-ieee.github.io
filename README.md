@@ -4,6 +4,19 @@ The Swansea University IEEE Student Branch is a student-led initiative dedicated
 
 Join the IEEE student branch to become an active part of the team and enrich your academic journey through inspiring workshops, networking events, and hands-on projects!
 
+Swansea IEEE Student Branch, in collaboration with the Zienkiewicz Institute, is launching a peer-support initiative to help students prepare for dissertations, theses, and vivas.
+
+We will host weekly or bi-weekly sessions (based on demand), where students can share their work, discuss plans, and receive constructive, supportive feedback in a safe and encouraging environment.
+
+The aim is not to instruct, but to support, helping you build confidence and manage the pressures of academic writing and presentation.
+
+Our first session will feature [Yiming](https://www.linkedin.com/in/li-yiming-a63325380/), who has recently submitted his PhD thesis and is preparing for his viva in the coming months.
+
+We invite all PGRs, Master’s, and undergraduate students seeking guidance or reassurance to join us.
+
+Let’s work together to make this journey less daunting and more collaborative.
+
+
 ## 📚 4th Reading Clinic: Wednesday 13th May 3-4 pm - CoFo 014 & Online
 
 This session explores how modern intelligent systems perceive, act, and adapt in imperfect real-world conditions. We will look at how robots can reliably identify graspable objects even in highly cluttered environments. At the same time, we will question what happens when technology fails, ages, or is repurposed by its users. By combining perspectives from robotics and Human-Computer Interaction (HCI), the session highlights both precision-driven automation and human-centered adaptation. Expect a discussion that connects technical innovation with broader reflections on how we design, use, and sustain technology.
