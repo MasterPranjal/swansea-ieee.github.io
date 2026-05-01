@@ -46,7 +46,7 @@ The first paper introduces an important novel concept, “graspness,” in robot
 🕒 3:00 – 4:00 PM  
 📍 CoFo 014 (Ground Floor, Computational Foundry) & Online Zoom Meeting
 
-Link to register: https://events.vtools.ieee.org/m/558024
+Link to register: [https://events.vtools.ieee.org/m/558024](https://events.vtools.ieee.org/m/558031)
 
 Join us to engage in insightful discussions, connect interdisciplinary ideas across robotics and HCI, network with fellow IEEE members, and deepen your academic perspective. We are looking forward to seeing you there!
 
